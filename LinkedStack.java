@@ -1,4 +1,4 @@
-/**     
+/**    text from git 
  * Realization of a stack as an adaptation of a SinglyLinkedList.
  * All operations are performed in constant time.
  *
